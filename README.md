@@ -22,6 +22,13 @@ A React-based frontend assignment for Lexi Legal Assistant interface.
 
 ---
 
+## 🧪 Demo
+
+![Screenshot (23)](https://github.com/user-attachments/assets/30071ad8-4f52-4d3a-a7d3-126523dff88a)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/aed5e77a-1f7d-4bb4-8a33-2c1e4a5a6893)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/abce85cd-b953-4971-8298-5fcdf9edae57)
 
 ---
 
